@@ -42,3 +42,4 @@ g.maxflow()
 out = g.what_segment_vectorized()
 pylab.imshow(out.reshape(im.shape))
 pylab.show()
+
